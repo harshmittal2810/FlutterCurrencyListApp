@@ -1,6 +1,11 @@
-# flutter_app
+# Currency List app
 
-A new Flutter application.
+A flutter app using dart language.
+Newly introduced by Google for Hybrid app.
+Flutter app to run Android and Ios at same time.
+This app will show you how to call a get request in dart and show in list.
+using this api 
+https://api.coinmarketcap.com/v1/ticker/
 
 ## Getting Started
 
